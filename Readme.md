@@ -1,14 +1,16 @@
 ## BIO
-Name : Andika Andra.<br>
-NRP : 05111640000058<br>
-Github : [andikaandra](https://github.com/andikaandra)
+|||
+------------ | -------------
+Name | Andika Andra
+NRP | 05111640000058
+Github | [andikaandra](https://github.com/andikaandra)
 
 ---
 
 ## Website with bad UI
 
-1. ### [IEFAIR](http://ie-games.iefairits.com)
-1. ### [Attendance Web Service](http://etc.if.its.ac.id)
+1. [IEFAIR](http://ie-games.iefairits.com)
+1. [Attendance Web Service](http://etc.if.its.ac.id)
 1. 
 
 ---
@@ -18,7 +20,7 @@ Github : [andikaandra](https://github.com/andikaandra)
 <br> ![register-page](assets/img/1549980550323.jpg) <br>
 at the first sight the page looks fine, but the fatal mistakes is when i submitted the form (register), MY ACCOUNT SUCCESSFULLY CREATED :disappointed_relieved: . the captcha code that i wrote is wrong but the form is successfully passed.
 <br><br>
-after my account created, and redirected to my dashboard,then i logged out, i tried to check forgot password page, lets check the picture below
+after my account created, and redirected to my dashboard then i logged out, i tried to check forgot password page, lets check the picture below
 <br> ![forgot-page](assets/img/1549980850738.jpg) <br>
 maybe this is the simple thing, but the page dont have "the link" to go back to homepage or previous page. so user manually to go to homepage. and the first proglem repeated again, the captcha code that i wrote is wrong but the form is successfully passed. :blush:
 
@@ -39,4 +41,4 @@ and after i check on the phone size layout, i dont find any navbar-link on the n
 so if i want to go to login page i have to write the url manually, but if i dont have enough time to change my url, i just click on the other menu (ruang, pic, etc) and it automatically redirected to login page because the middleware. :grin: 
 
 #### is there a better solution?
-for the first problem i think if you have many navbar-link, you should make it as collapsable, and for the second one is just make your web responsive as possible. but overall the app is very very good and have much feature. :+1:
+for the first problem i think if you have many navbar-link, you should make it as collapsable, and for the second one is just make your web responsive as possible. but overall the app is very very good and have much feature. :+1: :+1:
