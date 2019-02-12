@@ -1,9 +1,7 @@
 ## BIO
-<dl>
-  <dt>Name :</dt>
-  <dd>Andika Andra.</dd>
-  <dt>NRP :</dt>
-  <dd>05111640000058</dd>
-  <dt>Github :</dt>
-  <dd><a target="blank" href="https://github.com/andikaandra">andikaandra</a></dd>
-</dl>
+Name : Andika Andra.<br>
+NRP : 05111640000058<br>
+Github : [andikaandra](https://github.com/andikaandra)
+
+---
+
