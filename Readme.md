@@ -8,11 +8,19 @@ Github | [andikaandra](https://github.com/andikaandra)
 ---
 
 ## Website with bad UI
-
-1. [IEFAIR](http://ie-games.iefairits.com)
-1. [Attendance Web Service](http://etc.if.its.ac.id)
-1. 
-
+#### Outline
+1. IEFAIR
+   * [IEFAIR](http://ie-games.iefairits.com)
+   * [Description](#iefair)
+   * [Suggestion](#is-there-a-better-solution)
+1. Attendance Web Service
+   * [Attendance Web Service](http://etc.if.its.ac.id)
+   * [Description](#attendance-web-service)
+   * [Suggestion](#is-there-a-better-solution-1)
+1. Integra Scholarship System Information
+   * [*SI* *Beasiswa*](http://beasiswa.its.ac.id/data/home.php)
+   * [Description](#attendance-web-service)
+   * [Suggestion](#is-there-a-better-solution-1)
 ---
 
 ### IEFAIR 
@@ -42,3 +50,13 @@ so if i want to go to login page i have to write the url manually, but if i dont
 
 #### is there a better solution?
 for the first problem i think if you have many navbar-link, you should make it as collapsable, and for the second one is just make your web responsive as possible. but overall the app is very very good and have much feature. :+1: :+1:
+
+<br>
+
+---
+
+### Integra Scholarship System Information
+[*SI* *Beasiswa*](http://beasiswa.its.ac.id/data/home.php) is system information about scholarship in ITS
+
+
+
