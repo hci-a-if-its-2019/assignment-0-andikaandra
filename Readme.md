@@ -24,6 +24,7 @@ Github | [andikaandra](https://github.com/andikaandra)
    * [Description](#iefair)
    * [Suggestion](#is-there-a-better-solution-2)
    * [Demo](https://youtu.be/_p5Wj2Yons8)
+
 ---
 
 ### Attendance Web Service
@@ -33,12 +34,13 @@ on the last visit to the site, i found the register link on the top right is onl
 <br>
 and after i check on the phone size layout, i dont find any navbar-link on the navbar
 <br> ![navbar-sm](assets/img/1549980111138.jpg) <br>
-so if i want to go to login page i have to write the url manually, but if i dont have enough time to change my url, i just click on the other menu (ruang, pic, etc) and it automatically redirected to login page because the middleware. :grin: 
+so if i want to go to login page i have to write the url manually, but if i dont have enough time to change my url, i just click on the other menu (ruang, pic, etc) and it automatically redirected to login page caused by the middleware. :grin: 
 
 #### Is there a better solution?
 for the first problem i think if you have many navbar-link, you should make it as collapsable, and for the second one is just make your web responsive as possible. but overall the app is very very good and have much feature. :+1: :+1:
 
-<br>
+#### Check this video
+[Demo](https://youtu.be/Y41O6syArnU)
 
 ---
 
@@ -54,7 +56,8 @@ look at the scrolling bar on the right side :sweat_smile:. and if i scrolled to 
 #### Is there a better solution?
 for the first problem i think there should be a button to download file so the user doesn't think "what file is this?" "is this important to me?" "should i download it?". for the second problem i think there should be a listing to separate by year, if user try to looking about scholarship at 2017 so just choose the list in 2017, it should be better experience and make it easier for users to use.
 
-<br>
+#### Check this video
+[Demo](https://youtu.be/XsG2ySSvdIU)
 
 ---
 
@@ -69,3 +72,6 @@ maybe this is the simple thing, but the page dont have "the link" to go back to 
 
 #### Is there a better solution?
 for the first problem i think developer should do a testing for every scenario/case, captcha must be exactly the same as the user wrote. **never trust user input**. for the second problem at least in the Navbar there must be a logo that linked to homepage.
+
+#### Check this video
+[Demo](https://youtu.be/_p5Wj2Yons8)
